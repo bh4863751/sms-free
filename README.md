@@ -64,3 +64,5 @@ SMS-Activate 是一个提供全球虚拟号码接收短信验证码服务的网�
 
 
 以上免费接码平台经过手工测试，部分有效。如果有更好的接码平台推荐，欢迎留言分享。
+
+[SMS-Activate：一款实用的短信验证码接收工具](https://github.com/rerxjvn/SMS)
